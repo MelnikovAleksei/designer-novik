@@ -1,4 +1,4 @@
-# Project work: Designer portfolio 
+# Project work: "Designer portfolio" 
 
 ## The site was created by a group of students as part of their studies at [Yandex.Praktikum](https://praktikum.yandex.com/) on a web development course ["Web Developer"](https://practicum.yandex.com/web/). 
 
