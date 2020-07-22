@@ -4,6 +4,8 @@
 
 *Read this in other languages:* [RU](https://github.com/MelnikovAleksei/designer-novik/blob/master/README.md) 
 
+### This project work was created after completing the third sprint of the Web Developer course as an additional assignment from a mentor. The work used adaptive layout and work with the layout in ["Figma"](https://drive.google.com/file/d/1pWvH1yt2Wfq-3blIwWD9hbBgyZIPCggS/view?usp=sharing) 
+
 ### The work uses advanced HTML and CSS. 
 
 ### Technologies: 
@@ -19,4 +21,3 @@
 * HTML 
 * CSS 
 
-#### Layout: ["Figma"](https://drive.google.com/file/d/1pWvH1yt2Wfq-3blIwWD9hbBgyZIPCggS/view?usp=sharing) 
