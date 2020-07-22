@@ -1,6 +1,6 @@
 # Project work: "Designer portfolio" 
 
-## The site was created by a group of students as part of their studies at [Yandex.Praktikum](https://praktikum.yandex.com/) on a web development course ["Web Developer"](https://practicum.yandex.com/web/). 
+## A typical one-page website with a responsive design. The site was created by a group of students as part of their studies at [Yandex.Praktikum](https://praktikum.yandex.com/) on a web development course ["Web Developer"](https://practicum.yandex.com/web/). 
 
 *Read this in other languages:* [RU](https://github.com/MelnikovAleksei/designer-novik/blob/master/README.md) 
 
