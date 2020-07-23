@@ -3,3 +3,9 @@
 @import url(../fonts/gilroy/gilroy.css);
 
 @import url(../blocks/root/root.css);
+
+@import url(../blocks/section-title/section-title.css);
+
+@import url(../blocks/about/about.css);
+
+@import url(../blocks/skills/skills.css);
