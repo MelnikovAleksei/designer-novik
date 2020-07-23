@@ -1,1 +1,5 @@
 @import url(../vendor/normalize.css);
+
+@import url(../fonts/gilroy/gilroy.css);
+
+@import url(../blocks/root/root.css);
