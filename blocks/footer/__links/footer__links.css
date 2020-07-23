@@ -1,0 +1,11 @@
+@import url(./_networks/footer__links_networks.css);
+
+.footer__links {
+  color: #828282;
+  max-width: 243px;
+  text-align: center;
+  margin: 41px auto 123px;
+  font-size: 14px;
+  line-height: 8px;
+  text-decoration: none;
+}

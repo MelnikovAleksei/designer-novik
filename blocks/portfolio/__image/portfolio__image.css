@@ -1,0 +1,11 @@
+.portfolio__image {
+  max-width: 100%;
+  max-height: 522px;
+}
+
+@media (max-width: 350px) {
+  .portfolio__image {
+    max-width: 100%;
+    max-height: 522px;
+  }
+}
