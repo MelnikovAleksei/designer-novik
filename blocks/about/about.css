@@ -1,0 +1,7 @@
+@import url(./__text/about__text.css);
+
+.about {
+    background-color: #F6F6F6;
+    margin: 0;
+    padding: 120px 0 108px;
+}
