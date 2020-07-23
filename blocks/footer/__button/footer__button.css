@@ -1,14 +1,13 @@
 .footer__button {
   background-color: black;
+  text-decoration: none;
   color: white;
-  border-radius: 31px;
-  width: 181px;
-  height: 42px;
-  margin: 17px auto 71px;
   font-size: 18px;
-  line-height: 17px;
-  box-shadow: none;
+  font-weight: 500;
+  line-height: 37px;
+  width: 180px;
+  height: 42px;
+  text-align: center;
+  border-radius: 31px;
+  margin: 16px auto 68px;
 }
-  .footer__button:focus {
-    outline:none;
-  }
