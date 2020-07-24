@@ -4,7 +4,10 @@
 
 @media screen and (max-width: 767px) {
   .header__list-item {
-    margin: 34px 26px;
+    margin: 0 26px 68px 26px;
+  }
+  .header__list-item:last-of-type {
+    margin-bottom: 0;
   }
 }
 
