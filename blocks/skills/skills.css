@@ -1,0 +1,21 @@
+@import url(./__text/skills__text.css);
+@import url(./__items/skills__items.css);
+@import url(./__rate/skills__rate.css);
+@import url(./__item/skills__item.css);
+@import url(./__mark/skills__mark.css);
+@import url(./__mark/_marked/skills__mark_marked.css);
+@import url(./__name/skillls__name.css);
+@import url(./__title/skills__title.css);
+@import url(./__icon/skills__icon.css);
+
+.skills {
+    margin: 0 auto;
+    padding: 91px 0 111px;    
+}
+
+@media screen and (max-width: 768px) {
+    .skills {
+        margin: 0 auto;
+        padding: 83px 0 98px;        
+    }    
+}
