@@ -1,0 +1,8 @@
+.header__lang-item {
+  border-right: 3px solid #070707;
+  padding: 0 5px;
+}
+
+.header__lang-item:last-of-type {
+  border-right: none;
+}

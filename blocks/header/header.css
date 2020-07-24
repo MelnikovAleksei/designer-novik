@@ -1,0 +1,16 @@
+.header {
+  max-width: 945px;
+  margin: 0 auto;
+  position: relative;
+  font-family: 'Gilroy', Arial, sans-serif;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 22px;
+}
+
+@media screen and (max-width: 767px) {
+  .header {
+    font-size: 34px;
+    line-height: 42px;
+  }
+}
