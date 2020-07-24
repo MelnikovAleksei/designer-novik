@@ -1,0 +1,15 @@
+.lead__subtitle {
+  margin: 0 0 0 300px;
+  width: 150px;
+  font-family: 'Gilroy', Arial, sans-serif;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 22px;
+  color: #070707;
+}
+
+@media screen and (max-width: 767px) {
+  .lead__subtitle {
+    margin-left: 0;
+  }
+}
