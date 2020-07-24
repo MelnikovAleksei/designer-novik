@@ -29,5 +29,16 @@
 @import url(../blocks/section-title/section-title.css);
 
 @import url(../blocks/about/about.css);
+@import url(../blocks/about/__text/about__text.css);
+@import url(../blocks/about/__title/about__title.css);
 
 @import url(../blocks/skills/skills.css);
+@import url(../blocks/skills/__text/skills__text.css);
+@import url(../blocks/skills/__items/skills__items.css);
+@import url(../blocks/skills/__rate/skills__rate.css);
+@import url(../blocks/skills/__item/skills__item.css);
+@import url(../blocks/skills/__mark/skills__mark.css);
+@import url(../blocks/skills/__mark/_marked/skills__mark_marked.css);
+@import url(../blocks/skills/__name/skillls__name.css);
+@import url(../blocks/skills/__title/skills__title.css);
+@import url(../blocks/skills/__icon/skills__icon.css);
