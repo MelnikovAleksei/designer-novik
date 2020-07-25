@@ -1,0 +1,14 @@
+.lead__headline {
+  max-width: 600px;
+  display: flex;
+  align-items: center;
+  margin-bottom: 30px;
+}
+
+@media screen and (max-width: 767px) {
+  .lead__headline {
+    flex-direction: column;
+    align-items: flex-start;
+    margin-bottom: 37px;
+  }
+}

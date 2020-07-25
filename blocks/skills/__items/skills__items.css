@@ -1,0 +1,17 @@
+.skills__items {
+    list-style: none;
+    display: flex;
+    margin: 0 auto;
+    padding: 93px 0 0;
+    max-width: 935px;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+
+@media screen and (max-width: 768px) {
+    .skills__items {
+        padding: 25px 15px 0;
+    }
+}

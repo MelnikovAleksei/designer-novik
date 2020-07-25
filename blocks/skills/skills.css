@@ -1,0 +1,16 @@
+.skills {
+    margin: 0 auto;
+    padding: 87px 0 111px;    
+}
+
+@media screen and (max-width: 985px) {
+    .skills {
+        padding: 91px 25px 111px;      
+    }    
+}
+
+@media screen and (max-width: 768px) {
+    .skills {
+        padding: 83px 0 98px;        
+    }    
+}

@@ -1,0 +1,14 @@
+.header__list-link {
+  list-style: none;
+  text-decoration: none;
+  color: #828282;
+  transition: color .3s ease;
+}
+
+.header__list-link:focus {
+  color: #070707;
+}
+
+.header__list-link:hover {
+  color: #070707;
+}

@@ -1,0 +1,23 @@
+.lead__title {
+  margin: 0;
+  width: 124px;
+  height: 118px;
+  font-family: 'Gilroy', Arial, sans-serif;
+  font-weight: bold;
+  font-size: 47px;
+  line-height: 59px;
+  color: #070707;
+}
+
+@media screen and (max-width: 1023px) {
+  .lead__title {
+    margin-left: 30px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .lead__title {
+    margin-left: 0;
+    margin-bottom: 18px;
+  }
+}

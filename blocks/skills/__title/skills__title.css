@@ -1,0 +1,9 @@
+.skills__title {
+    margin-bottom: 53px;
+}
+
+@media screen and (max-width: 767px) {
+  .skills__title {
+    margin-bottom: 36px;
+  }
+}
