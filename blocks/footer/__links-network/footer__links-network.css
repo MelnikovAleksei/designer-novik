@@ -1,9 +1,9 @@
 .footer__links-network {
   text-decoration: none;
   color: #828282;
+  transition: opacity ease 0.3s;
 }
 
 .footer__links-network:hover {
   opacity: 0.5;
-  transition: ease-in-out 0.3s;
 }
