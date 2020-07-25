@@ -1,5 +1,7 @@
-.footer__links-item{
-
+.footer__links-item::after {
+  content: ','
 }
 
-
+.footer__links-item:last-of-type::after {
+  content: ''
+}
