@@ -6,11 +6,12 @@
   margin: 45px auto 123px;
   line-height: 8px;
   text-decoration: none;
+  width: 250px;
 }
 
 @media (max-width: 375px) {
   .footer__links {
-     margin: 49px auto 123px;
+    margin: 49px auto 123px;
     font-size: 18px;
     line-height: 6px;
     max-width: 315px;
