@@ -1,0 +1,17 @@
+.footer__links-list {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  justify-content: space-between;
+  width: 243px;
+  margin: 10px auto 0;
+  font-size: 14px;
+}
+
+@media (max-width: 500px) {
+  .footer__links-list {
+    margin: 15px auto 0;
+    width: 100%;
+    font-size: 18px;
+  }
+}

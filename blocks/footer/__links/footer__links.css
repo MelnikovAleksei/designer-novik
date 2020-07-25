@@ -2,19 +2,18 @@
 
 .footer__links {
   color: #828282;
-  max-width: 243px;
   text-align: center;
-  margin: 41px auto 123px;
-  font-size: 14px;
+  margin: 45px auto 123px;
   line-height: 8px;
   text-decoration: none;
 }
 
 @media (max-width: 375px) {
   .footer__links {
-    max-width: 100%;
-    margin: 49px auto 123px;
+     margin: 49px auto 123px;
     font-size: 18px;
     line-height: 6px;
+    max-width: 315px;
+    width: 100%;
   }
 }
