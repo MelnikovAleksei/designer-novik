@@ -3,6 +3,7 @@
   margin: 45px auto 99px;
   font-size: 18px;
   line-height: 22px;
+  font-weight: 900;
 }
 
 .portfolio__link:last-child {
@@ -12,4 +13,16 @@
 .portfolio__link:hover {
   opacity: 0.5;
   transition: ease-in-out 0.3s;
+}
+
+@media (max-width: 500px) {
+  .portfolio__link {
+
+    margin: 33px auto 78px;
+
+  }
+
+  .portfolio__link:last-child {
+    margin-bottom: 81px;
+  }
 }

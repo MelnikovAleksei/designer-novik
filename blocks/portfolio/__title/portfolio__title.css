@@ -4,3 +4,9 @@
   font-size: 34px;
   line-height: 42px;
 }
+
+@media (max-width: 500px) {
+  .portfolio__title {
+    margin: 105px auto 70px;
+      }
+}

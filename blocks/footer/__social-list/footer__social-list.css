@@ -8,7 +8,7 @@
 }
 
 @media (max-width: 400px) {
-  .footer__social {
+  .footer__social-list {
     width: 315px;
   }
 }

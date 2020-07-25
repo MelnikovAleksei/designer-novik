@@ -6,3 +6,10 @@
   line-height: 35px;
   font-weight: bold;
 }
+
+@media (max-width: 500px) {
+  .footer__title {
+    margin: 79px auto 15px;
+
+  }
+}

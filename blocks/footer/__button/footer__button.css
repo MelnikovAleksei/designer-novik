@@ -11,3 +11,12 @@
   border-radius: 31px;
   margin: 16px auto 68px;
 }
+
+@media (max-width: 500px) {
+  .footer__button {
+    background-color: black;
+    width: 313px;
+    height: 42px;
+    margin: 26px auto 35px;
+  }
+}
