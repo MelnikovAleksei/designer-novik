@@ -16,8 +16,8 @@
 
 @media screen and (max-width: 768px) {
   .about__text {         
-      max-width: 90%;
-      white-space: normal;
+    max-width: 90%;
+    white-space: normal;
   }
 }
 
