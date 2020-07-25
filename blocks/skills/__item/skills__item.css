@@ -9,13 +9,13 @@
 
 @media screen and (max-width: 768px) {
   .skills__item {
-      min-width: 50%;
-      margin-top: 80px;
+    min-width: 50%;
+    margin-top: 80px;
   }
 }
 
 @media screen and (max-width: 420px) {
   .skills__item {
-      min-width: 100%;
+    min-width: 100%;
   }
 }
