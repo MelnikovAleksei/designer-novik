@@ -1,23 +1,23 @@
 .about__text {
-    font-family: inherit;
-    color: inherit;
-    font-size: 18px;
-    line-height: 1.22;
-    text-align: center; 
-    max-width: 486px;
-    margin: 0 auto;
-    padding: 0;
-    white-space: pre-line;
+  font-family: inherit;
+  color: inherit;
+  font-size: 18px;
+  line-height: 1.22;
+  text-align: center; 
+  max-width: 486px;
+  margin: 0 auto;
+  padding: 0;
+  white-space: pre-line;
 }
 
 .about__text:not(:last-child) {
-    margin-bottom: 25px;
+  margin-bottom: 25px;
 }
 
 @media screen and (max-width: 768px) {
-    .about__text {         
-        max-width: 90%;
-        white-space: normal;
-    }
+  .about__text {         
+      max-width: 90%;
+      white-space: normal;
+  }
 }
 
