@@ -1,10 +1,10 @@
 .skills__mark {
-    padding: 0;
-    margin: 0 auto;
-    color: #E5E5E5;
-    font-size: 32px;
+  padding: 0;
+  margin: 0 auto;
+  color: #E5E5E5;
+  font-size: 32px;
 }
 
 .skills__mark:not(:last-child) {
-    margin-right: 9px;    
+  margin-right: 9px;    
 }
