@@ -10,8 +10,8 @@
   transform: rotate(270deg);
   align-self: flex-end;
   position: absolute;
-  top: 155px;
-  right: 0;
+  top: 184px;
+  right: -23px;
 }
 
 @media screen and (max-width: 767px) {
