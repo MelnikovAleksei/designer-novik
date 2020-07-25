@@ -1,7 +1,7 @@
 .footer__social-link {
-
+  transition: opacity ease 0.3s;
 }
+
 .footer__social-link:hover {
   opacity: 0.5;
-  transition: ease-in-out 0.3s;
 }
