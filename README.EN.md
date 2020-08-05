@@ -23,3 +23,7 @@
 * HTML 
 * CSS 
 
+### Authors: 
+* [Elena Kolesnik](https://github.com/KoLenhen) 
+* [Aleksei Zhukov](https://github.com/azhukovalex) 
+* [Aleksei Melnikov](https://github.com/MelnikovAleksei) 
