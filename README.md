@@ -20,3 +20,8 @@
 ### Языки: 
 * HTML 
 * CSS 
+
+### Авторы: 
+* [Елена Колесник](https://github.com/KoLenhen) 
+* [Алексей Жуков](https://github.com/azhukovalex) 
+* [Алексей Мельников](https://github.com/MelnikovAleksei) 
